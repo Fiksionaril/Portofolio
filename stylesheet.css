@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "Lucida Grande";
+  font-family: 'Viga', sans-serif;
 }
 
 a {
@@ -15,14 +16,14 @@ a {
   clear: left;
 }
 
-.container {
-  max-width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
+.top-wrapper img {
+  padding: 20px;
+  width: 200px;
+  width: 200px;
+  border-radius: 100px;
 }
-
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 75px;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
